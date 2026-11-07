@@ -38,3 +38,15 @@ Interactive operational dashboards built in Microsoft Excel to track revenue per
 * **Audit Ledger:** Granular customer payment tracking across regional distribution channels.
 
 🔗 **[Open Interactive Live Mobile Dashboard](https://datastudio.google.com/s/g0x91yhg68Y)**
+
+---
+
+### 📊 4. Executive Summary & Profitability Dashboard
+
+**Domain:** Multi-Channel Sales Performance & Margin Diagnostics
+
+* **Commercial Scale:** Monitored **$645.2K** in gross revenue across 2,707 orders with a **45.94%** profit margin ($296.4K total profit).
+* **Geographic Distribution:** Tracked top European markets including Spain, Austria, Czechia, Belgium, and France alongside regional European performance.
+* **Channel & Margin Analytics:** Granular visibility across Online Store, Marketplace, Corporate, and Retail Partner channels.
+* **Working Spreadsheet:** [Excel Sales Dashboard.xlsx](Excel%20Sales%20Dashboard.xlsx)
+*
