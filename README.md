@@ -63,5 +63,5 @@ An end-to-end Management Information System (MIS) and Business Intelligence repo
 * **Formula-Driven Control Sheet (`OVERVIEW`):** Engineered an operational monitor using `SUMPRODUCT`, `XLOOKUP`, Data Validation dropdowns, and Conditional Formatting for low-stock alerts.
 
 ### Dashboard Previews
-![Sales & Inventory BI Dashboard]
+![Sales & Inventory BI Dashboard](https://github.com/pratikdey360/Mis-reporting-Dashboard/blob/main/SALES%20%26%20INVENTORY%20ANALYSIS%20DASHBOARD.xlsx)
 
