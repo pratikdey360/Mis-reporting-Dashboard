@@ -49,4 +49,19 @@ Interactive operational dashboards built in Microsoft Excel to track revenue per
 * **Geographic Distribution:** Tracked top European markets including Spain, Austria, Czechia, Belgium, and France alongside regional European performance.
 * **Channel & Margin Analytics:** Granular visibility across Online Store, Marketplace, Corporate, and Retail Partner channels.
 * **Working Spreadsheet:** [Excel Sales Dashboard.xlsx](Excel%20Sales%20Dashboard.xlsx)
-*
+
+---
+
+## 📊 Sales & Inventory Management MIS Dashboard (Power Query & Power Pivot)
+
+An end-to-end Management Information System (MIS) and Business Intelligence reporting solution built in **Microsoft Excel** for **Eastern Industrial Supplies Pvt. Ltd.** (a B2B industrial distributor).
+
+### Key Features & Technical Implementation
+* **ETL & Data Modeling:** Cleaned and structured four relational tables (`Sales`, `Products`, `Customers`, `Inventory`) via **Power Query** and modeled a **Star Schema** in **Power Pivot**.
+* **DAX Measures:** Created custom measures for `Total Revenue`, `Total COGS`, `Gross Profit`, `Gross Margin %`, `Closing Stock`, and `Stock Deficit`.
+* **Interactive BI Dashboard (`DASHBOARD`):** Built 6 dynamic KPI cards, 6 PivotCharts (Monthly Revenue Trend, Top 10 Products, Stock vs. Deficit by Category, Payment Status Donut, State Revenue Bar, and Category Revenue vs. Profit), and cross-connected **Slicers**.
+* **Formula-Driven Control Sheet (`OVERVIEW`):** Engineered an operational monitor using `SUMPRODUCT`, `XLOOKUP`, Data Validation dropdowns, and Conditional Formatting for low-stock alerts.
+
+### Dashboard Previews
+![Sales & Inventory BI Dashboard]
+
